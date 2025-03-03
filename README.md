@@ -1,6 +1,5 @@
 # 🏓 Paradox's Pong Game
 
-![Pong Game Banner](#)  
 *An electrifying twist on the classic Pong game – Play Solo or Challenge a Friend!* 🎮🔥
 
 ---
@@ -15,7 +14,9 @@
 ---
 
 ## 🎥 Demo & Screenshots
-📸 *Coming Soon...* *(Add GIFs or images here)*
+![image](https://github.com/user-attachments/assets/3cc839d7-c55d-4b1e-9dcb-b85ca30de882)
+![image](https://github.com/user-attachments/assets/138ec749-947f-4436-9639-093512feace6)
+
 
 ---
 
